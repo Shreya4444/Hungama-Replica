@@ -1,0 +1,3 @@
+<form id="form1">
+<input type="search" size="32" placeholder="search songs,videos,movies..">
+</form>
